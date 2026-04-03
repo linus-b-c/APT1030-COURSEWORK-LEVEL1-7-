@@ -1,0 +1,2 @@
+C++ eCitizen Receipt
+Transaction: Approved
